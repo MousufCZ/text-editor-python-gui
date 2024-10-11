@@ -39,3 +39,10 @@ button.pack()  # Use pack for layout management
 
 # Command to run the main loop
 stimulator_window.mainloop()
+
+'''
+I need to add some other features on to this. Google solutions
+for what to add.
+
+Think about
+'''
